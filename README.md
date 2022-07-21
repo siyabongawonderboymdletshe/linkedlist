@@ -1,1 +1,4 @@
-# This project contains implementation for some of the methods for the Linkedlist data structure.
+LinkedList App
+=========
+
+A simple application to perform LinkedList operations.
